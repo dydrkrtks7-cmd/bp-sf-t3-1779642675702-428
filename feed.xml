@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 화곡 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-428.pages.dev</link>
-  <description><![CDATA[마포 힙플레이스 카페 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 13:24:37 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 13:24:37 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-428.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[힙플레이스 카페]]></title>
+  <link>https://sf-t3-1779642675702-428.vercel.app</link>
+  <description><![CDATA[힙플레이스 카페 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 19:44:19 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 19:44:19 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-428.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 화곡 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-428.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-428.pages.dev/</guid>
-      <description><![CDATA[마포 힙플레이스 카페 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 13:24:37 GMT</pubDate>
+      <title><![CDATA[화곡 셔츠룸 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
+      <link>https://sf-t3-1779642675702-428.vercel.app/posts/field_note-001-1rlu7ji.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-428.vercel.app/posts/field_note-001-1rlu7ji.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목 | "디테일 깊숙이 숨은 미공개 지역, 데모 버전의 진짜 비밀" #### 배경 비즈니스 키워드 연결 지점화곡 셔츠룸 현장에서 놓치기 쉬운 포인트를 기록해봤다. --- ## 구체적 니치 콘텐츠 작성 ### 주제다크소울 1편 출시 전 데모 버전에]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[화곡 셔츠룸에서 구매 후 중고 리셀링을 계획하는 가이드]]></title>
+      <link>https://sf-t3-1779642675702-428.vercel.app/posts/guide-002-1rlu7ji.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-428.vercel.app/posts/guide-002-1rlu7ji.html</guid>
+      <description><![CDATA[아, 진짜... 중고 리셀러들의 입장에서 보면, 아식스 젤 카야노 14 OG 아이보리 컬러웨이의 2023년 리스탁에서 인솔 로고 프린트 변동에 대한 감별 포인트 하나만 틀려도 상당한 손실을 입힐 수 있습니다. ### 관점 강제중고 리셀러로서, 제가 경험해 본 대략적인 ]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
